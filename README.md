@@ -25,7 +25,7 @@
 <p class="p3"><span class="s2">You most likely came from that link for a Website that needs an overhaul and this, being my first webpage, really needed an overhaul.</span></p>
 <p class="p3"><span class="s2"><br>
 </span></p>
-<p class="p3"><span class="s2">Asking for a list of all of my Projects? <a href="https://stereomadnessss.github.io/list/"><span class="s3">Here it is!</span></a></span></p>
+<p class="p3"><span class="s2">Asking for a list of all of my Projects? <a href="https://stereomadnessss.github.io/lists/"><span class="s3">Here it is!</span></a></span></p>
 <p class="p3"><span class="s2"><br>
 </span></p>
 <p class="p4"><span class="s2">Why 4194304 instead of StereoMadnessss?</span></p>
