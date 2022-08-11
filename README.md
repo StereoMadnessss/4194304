@@ -65,4 +65,4 @@
 <p class="p3"><span class="s2">In February I changed my username to 4194304 and I have been going in the same path since March. Mostly doing random things.</span></p>
 <p class="p5"><span class="s2"><br>
 </span></p>
-<p class="p7"><span class="s1">4194304</span></p>
+<p class="p7"><p class="p7"><a href="https://elebear.github.io/webpage/index.html"><span class="s1">4194304</span></p><span class="s1">4194304</span></p>
